@@ -16,7 +16,8 @@
         "js": ["scripts/content.js"],
         "matches": [
             "https://*/*",
-            "http://*/*"
+            "http://*/*",
+            "file://**/*"
         ]
     }]
 }
